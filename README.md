@@ -19,7 +19,7 @@ Download the latest binary for your platform from the [Releases](../../releases)
 ### From Source
 
 ```bash
-cargo install --git https://github.com/yourusername/bech32m
+cargo install --git https://github.com/AndrewWestberg/bech32m
 ```
 
 Or build locally:
